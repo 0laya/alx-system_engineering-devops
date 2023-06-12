@@ -1,0 +1,2 @@
+#!/bin/bash
+taoil -n 1 < iacta >> iacta
